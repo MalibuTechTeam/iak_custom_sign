@@ -13,6 +13,5 @@ Custom sign
 - Uppercase alphabet
 - 2 Structures with collisions
 - Possibility of changing the color of individual letters
-- Showcase: [Click Here](https://www.youtube.com/watch?v=OFNpN5RanzE)
 - Tutorial:  [Click Here](https://www.youtube.com/watch?v=OFNpN5RanzE)
 
