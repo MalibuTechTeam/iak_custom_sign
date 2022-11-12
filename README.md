@@ -6,6 +6,7 @@
 
 Custom sign 
 
+<meta name='dmca-site-verification' content='bnd5TCs2SjRFMHBaRmZQZEI0bFBXUT090' />
 
 ## Features
 
