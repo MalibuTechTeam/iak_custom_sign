@@ -6,8 +6,6 @@
 
 Custom sign 
 
-<meta name='dmca-site-verification' content='bnd5TCs2SjRFMHBaRmZQZEI0bFBXUT090' />
-
 ## Features
 
 - Lowercase alphabet
@@ -16,3 +14,7 @@ Custom sign
 - Possibility of changing the color of individual letters
 - Tutorial:  [Click Here](https://www.youtube.com/watch?v=OFNpN5RanzE)
 
+## DMCA Protection Certificate
+![image](https://i.imgur.com/ZKgaF7B.png)
+
+##### Copyright © 2022 Malibú Tech. All rights reserved.
