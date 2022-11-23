@@ -4,8 +4,6 @@
 
 ---
 
-Custom sign 
-
 ## Features
 
 - Lowercase alphabet
@@ -15,6 +13,6 @@ Custom sign
 - Tutorial:  [Click Here](https://www.youtube.com/watch?v=OFNpN5RanzE)
 
 ## DMCA Protection Certificate
-![image](https://i.imgur.com/ZKgaF7B.png)
+![image](https://cdn.discordapp.com/attachments/1045063739738705940/1045114937862787092/image.png)
 
 ##### Copyright © 2022 Malibú Tech. All rights reserved.
